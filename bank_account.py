@@ -26,9 +26,10 @@ class BankAccount:
         self.balance += amount
 
 if __name__ == '__main__':
-
-    a1 = BankAccount('Johny', 500, 'Central Bank')
-    a2 = BankAccount('Tom')
+    a1 = BankAccount('John', 500, 'Central Bank')
+    a2 = BankAccount('Tom', '100')
+    a3 = BankAccount('George')
 
     a1.display()
+    a2.display()
     a2.display()
