@@ -1,5 +1,5 @@
 '''
-Book App
+Book Store App
 '''
 
 class Book:
