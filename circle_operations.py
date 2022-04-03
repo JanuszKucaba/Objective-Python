@@ -1,5 +1,5 @@
 '''
-Circle App
+Circle App - performs operations on a circle
 '''
 from math import pi
 
